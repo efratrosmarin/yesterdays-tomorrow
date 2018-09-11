@@ -163,7 +163,7 @@ a:hover, a:focus {
 	margin-left: 40%;
 }
 
-@media screen and (max-width: 40em) {
+@media screen and (max-width: 20em) {
 
 	.codrops-icon span {
 		display: none;
