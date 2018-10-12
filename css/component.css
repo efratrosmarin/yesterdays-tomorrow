@@ -529,7 +529,7 @@ button.trigger span::before {
 
 .intro-effect-sliced .codrops-demos a {
 	color: #fff;
-	font-size: 0.8em;
+	font-size: 1.4em;
 }
 
 .intro-effect-sliced.modify .codrops-demos a {
@@ -1197,7 +1197,7 @@ button.trigger span::before {
 	}
 
 	.codrops-demos a {
-		font-size: 80%;
+		font-size: 100%;
 	}
 
 	.intro-effect-side .title {
