@@ -36,7 +36,7 @@
   position: relative;
   box-shadow: 0 0 10px rgba(0,0,0,0.3)
 }
-.item .front-end:before{
+/* .item .front-end:before{
   content: "";
   position: absolute;
   width: 100%;
@@ -47,8 +47,8 @@
   background: linear-gradient(-45deg, rgba(97, 250, 113, 0.4) 0%,rgba(255, 87, 87, 0.4) 40%,rgba(18, 186, 200, 0.4) 100%);
   transition:500ms;
   opacity: .2;
-}
-.item:hover .front-end:before{
+} */
+/* .item:hover .front-end:before{
   opacity: 1;
 }
 .item:hover .front-end .item-title{
@@ -56,7 +56,7 @@
   0px 0 5px rgba(0,0,0,.5),
   0px 0 5px rgba(255,255,255,.5);
   color: #fff;
-}
+} */
 .item .front-end{
   width: 100%;
   float: left;
@@ -75,13 +75,10 @@
   padding-left:30px;
   padding-bottom:30px;
   width: 100%;
-  color: transparent;
+  color: #cf7c0e;
   font-weight: 700;
   font-size: 14px;
-  text-shadow:
-  -5px 0 5px rgba(0,0,0,1),
-  5px 0 5px rgba(255,255,255,1);
-  transition:500ms;
+ 
 }
 .item .back-end{
   display: none;
